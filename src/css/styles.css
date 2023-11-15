@@ -763,15 +763,15 @@ video {
 }
 
 .bg-bridge {
-  background-image: url('/src/img/tower-bridge.jpg');
+  background-image: url(/src/img/tower-bridge.jpg);
 }
 
 .bg-london {
-  background-image: url('/src/img/bg-london.jpg');
+  background-image: url(/src/img/bg-london.jpg);
 }
 
 .bg-talking {
-  background-image: url('/src/img/people-talking.jpg');
+  background-image: url(/src/img/people-talking.jpg);
 }
 
 .bg-cover {
