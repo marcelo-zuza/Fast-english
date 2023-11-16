@@ -7,9 +7,9 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        'london': "url(/src/img/bg-london.jpg)",
-        'talking': "url(/src/img/people-talking.jpg)",
-        'bridge': "url(/src/img/tower-bridge.jpg)"
+        'london': "url('/src/img/bg-london.jpg')",
+        'talking': "url('/src/img/people-talking.jpg')",
+        'bridge': "url('/src/img/tower-bridge.jpg')"
       },
       fontFamily: {
         'lato': 'Lato',
