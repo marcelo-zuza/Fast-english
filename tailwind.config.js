@@ -12,7 +12,8 @@ module.exports = {
         'bridge': "url(/src/img/tower-bridge.jpg)"
       },
       fontFamily: {
-        'lato': 'Lato'
+        'lato': 'Lato',
+        'oswald': 'Oswald',
       }
     },
   },
